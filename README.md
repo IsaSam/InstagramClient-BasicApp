@@ -12,10 +12,6 @@ This application contain one screen which mean a single Activity <br>
 	- Graphic ✓<br>
 	- Caption ✓<br>
 	- Username ✓<br>
-	
-Features(not in this version): <br>
-	- Display like count<br>
-	- User profile image<br>
 
 ✓ Project contains a GIF walkthrough of the app's functionality <br>
 
